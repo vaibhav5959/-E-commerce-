@@ -1,6 +1,6 @@
 # -E-commerce-
-Analyze e-commerce data with Python and SQL to uncover sales trends, customer behavior, and optimize inventory using predictive modeling and visualization.
-This project comprises use of some basic and advanced SQL, python implementation on data for getting insights.
+DATASET USED:[download link]
+(https://drive.google.com/drive/folders/1opBYWTaWISZrmw9_6_OysQczGqTVt7AV?usp=sharing)
 
 In this project the following major steps are done:
 
